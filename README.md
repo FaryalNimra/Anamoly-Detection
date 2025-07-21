@@ -1,7 +1,7 @@
 Anomaly Detection
 This Notebook focuses on implementing anomaly detection techniques using machine learning and statistical methods. Anomaly detection is crucial in many fields such as fraud detection, industrial monitoring, cybersecurity, and more.
 
-📁 Project Overview
+Project Overview
 This task is part of a larger series related to data preprocessing and analysis. In this notebook, we aim to:
 
 Understand and visualize anomalies in datasets.
